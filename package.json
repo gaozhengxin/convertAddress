@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "cp:godwoken": "copy \"godwoken/**/*\" \"node_modules/godwoken\""
+  },
+  "dependencies": {
+    "@ckb-lumos/base": "^0.16.0",
+    "@lay2/pw-core": "0.4.0-alpha.9",
+    "@polyjuice-provider/web3": "^0.1.1",
+    "big-integer": "^1.6.51",
+    "ckb-js-toolkit": "^0.10.2",
+    "keccak256": "^1.0.6",
+    "typescript": "^4.5.4"
+  }
+}
